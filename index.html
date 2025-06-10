@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Visualizador de CSV</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 20px; }
+    table { border-collapse: collapse; width: 100%; margin-top: 20px; }
+    th, td { border: 1px solid #ccc; padding: 8px; text-align: left; }
+    th { background-color: #f2f2f2; }
+  </style>
+</head>
+<body>
+  <h2>Visualización automática de CSV</h2>
+  <div id="output">Cargando archivo...</div>
+
+  <script>
+    window.onload = function () {
+      fetch('MyRaceResults.csv')
+        .then(response => {
+          if (!response.ok) throw new Error('Archivo no encontrado');
+          return response.text();
+        })
+        .then(text => displayCSV(text))
+        .catch(error => {
+          document.getElementById('output').textContent = 'Error al cargar el archivo CSV.';
+          console.error(error);
+        });
+    };
+
+    function displayCSV(csvText) {
+      const lines = csvText.trim().split('\n');
+      const table = document.createElement('table');
+
+      lines.forEach((line, index) => {
+        const row = document.createElement('tr');
+        const cells = line.split(',');
+
+        cells.forEach(cell => {
+          const cellElement = document.createElement(index === 0 ? 'th' : 'td');
+          cellElement.textContent = cell.trim();
+          row.appendChild(cellElement);
+        });
+
+        table.appendChild(row);
+      });
+
+      const output = document.getElementById('output');
+      output.innerHTML = '';
+      output.appendChild(table);
+    }
+  </script>
+</body>
+</html>
