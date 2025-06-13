@@ -1,8 +1,8 @@
 Ranking,Dorsal,Nombre,País,Género,Estado,Vueltas,Última Vuelta,Acumulado,Kms,Tiempos,Horas
-1,1,Diego Ernesto Molina,ARG,M,Activo,1,00:38,00:00:38,6.706,[38],["12:00:38"]
-2,6,Nancy Yamila Ferreira,ARG,F,Activo,1,00:42,00:00:42,6.706,[42],["12:00:42"]
-3,7,Ana Maria Acevedo,ARG,F,Activo,1,00:40,00:00:40,6.706,[40],["12:00:39"]
-,8,Verónica Irel,ARG,F,DNS,0,,,0.000,[],[]
+1,1,Diego Ernesto Molina,ARG,M,Activo,2,,00:00:38,13.412,[38,0],["12:00:38","12:06:00"]
+2,6,Nancy Yamila Ferreira,ARG,F,Activo,2,,00:00:42,13.412,[42,0],["12:00:42","12:06:03"]
+3,7,Ana Maria Acevedo,ARG,F,Activo,2,,00:00:40,13.412,[40,0],["12:00:39","12:06:05"]
+4,8,Verónica Irel,ARG,F,Activo,1,06:13,00:06:13,6.706,[373],["12:06:12"]
 ,9,Medardo Augusto Bourlot,ARG,M,DNS,0,,,0.000,[],[]
 ,10,Hernan Diego Laurini,ARG,M,DNS,0,,,0.000,[],[]
 ,13,Roberto Carlos Franco,ARG,M,DNS,0,,,0.000,[],[]
