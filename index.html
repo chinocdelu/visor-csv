@@ -7,7 +7,7 @@
     body { 
       font-family: Arial, sans-serif; 
       margin: 0;
-      background-color: #8a0000b0; /* Fondo bordó */
+      background-color: #800020; /* Fondo bordó */
     }
     .logo-container {
       text-align: center;
@@ -37,6 +37,8 @@
       text-align: left; 
     }
   </style>
+  <!-- SheetJS CDN -->
+  <script src="https://cdn.jsdelivr.net/npm/xlsx@0.18.5/dist/xlsx.full.min.js"></script>
 </head>
 <body>
   <div class="logo-container">
@@ -46,10 +48,10 @@
   <div id="output">Cargando archivo...</div>
 
   <script>
-    // Muestra la última fecha de modificación del CSV usando la API pública de GitHub
+    // Muestra la última fecha de modificación del XLSX usando la API pública de GitHub
     async function ponerFechaActualizacion() {
       const repo = "chinocdelu/visor-csv";
-      const archivo = "MyRaceResults.csv";
+      const archivo = "MyRaceResults.xlsx";
       const apiUrl = `https://api.github.com/repos/${repo}/commits?path=${archivo}&per_page=1`;
 
       try {
@@ -59,7 +61,6 @@
         if (data && data.length > 0) {
           const fechaUTC = data[0].commit.committer.date;
           const fechaLocal = new Date(fechaUTC);
-          // formato: dd/mm/yyyy hh:mm:ss
           const opciones = { 
             year: 'numeric', month: '2-digit', day: '2-digit', 
             hour: '2-digit', minute: '2-digit', second: '2-digit'
@@ -79,32 +80,37 @@
     ponerFechaActualizacion();
 
     window.onload = function () {
-      fetch('MyRaceResults.csv')
+      fetch('MyRaceResults.xlsx')
         .then(response => {
           if (!response.ok) throw new Error('Archivo no encontrado');
-          return response.text();
+          return response.arrayBuffer();
         })
-        .then(text => displayCSV(text))
+        .then(data => displayXLSX(data))
         .catch(error => {
-          document.getElementById('output').textContent = 'Error al cargar el archivo CSV.';
+          document.getElementById('output').textContent = 'Error al cargar el archivo XLSX.';
           console.error(error);
         });
     };
 
-    function displayCSV(csvText) {
-      const lines = csvText.trim().split('\n');
+    function displayXLSX(arrayBuffer) {
+      // Parsear el archivo usando SheetJS
+      const data = new Uint8Array(arrayBuffer);
+      const workbook = XLSX.read(data, { type: 'array' });
+
+      // Asume que queremos mostrar la primera hoja
+      const sheetName = workbook.SheetNames[0];
+      const worksheet = workbook.Sheets[sheetName];
+      const json = XLSX.utils.sheet_to_json(worksheet, { header: 1 });
+
+      // Crear tabla HTML
       const table = document.createElement('table');
-
-      lines.forEach((line, index) => {
+      json.forEach((rowArr, rowIdx) => {
         const row = document.createElement('tr');
-        const cells = line.split(',');
-
-        cells.forEach(cell => {
-          const cellElement = document.createElement(index === 0 ? 'th' : 'td');
-          cellElement.textContent = cell.trim();
-          row.appendChild(cellElement);
+        rowArr.forEach(cellVal => {
+          const cell = document.createElement(rowIdx === 0 ? 'th' : 'td');
+          cell.textContent = cellVal !== undefined ? cellVal : '';
+          row.appendChild(cell);
         });
-
         table.appendChild(row);
       });
 
