@@ -1,48 +1,36 @@
-Ranking,Dorsal,Nombre,País,Género,Estado,Vueltas,Última Vuelta,Acumulado,Kms
-1,1,Diego Ernesto Molina,ARG,M,Activo,2,08:38,00:08:43,13.412
-2,7,Ana Maria Acevedo,ARG,F,Activo,2,08:35,00:08:51,13.412
-3,6,Nancy Yamila Ferreira,ARG,F,Activo,1,00:09,00:00:09,6.706
-,8,Ver�nica Irel,ARG,F,DNS,0,,,0.00
-,?,Carlos Ignacio Raya,ARG,M,DNS,0,,,0.00
-,10,Hernan Diego Laurini,ARG,M,DNS,0,,,0.00
-,14,Mariano Jes�s Garc�a Percara,ARG,M,DNS,0,,,0.00
-,16,Guillermo Federico Castrillon,ARG,M,DNS,0,,,0.00
-,17,Marina Maricel Solari,ARG,F,DNS,0,,,0.00
-,18,Neri Juan Ramon Godoy,ARG,M,DNS,0,,,0.00
-,22,German Gaston Casa�as,ARG,M,DNS,0,,,0.00
-,24,Betina Maria Bonnin,ARG,F,DNS,0,,,0.00
-,32,Florencia D�vila C�ndido:,UY,F,DNS,0,,,0.00
-,34,Jos� Luis Alarcon Arcel,UY,M,DNS,0,,,0.00
-,52,Analia Mariel Razetto,ARG,F,DNS,0,,,0.00
-,93,Mat�as Manuel Vescina,ARG,M,DNS,0,,,0.00
-,99,Juan Ignacio Timinskas,ARG,M,DNS,0,,,0.00
-,111,Pamela Garc�a Frossard,ARG,F,DNS,0,,,0.00
-,134,Andrea Cosso,ARG,F,DNS,0,,,0.00
-,222,Marcelo Hernan Dietz,ARG,M,DNS,0,,,0.00
-,303,Leandro Ariel Brescacin,ARG,M,DNS,0,,,0.00
-,424,Fernando Javier Barolin,ARG,M,DNS,0,,,0.00
-,1963,Esteban Ignacio Martinez,ARG,M,DNS,0,,,0.00
-,1988,Wilson Daniel Guerrero Gonz�lez,UY,M,DNS,0,,,0.00
-,no,Santiago Yapur Lescano,ARG,M,DNS,0,,,0.00
-,no,Alejandro Mancini,,M,DNS,0,,,0.00
-,,Facundo Pisano,ARG,M,DNS,0,,,0.00
-,,Medardo Augusto Bourlot,ARG,M,DNS,0,,,0.00
-,,Maxi,ARG,M,DNS,0,,,0.00
-,,Roberto Carlos Franco,ARG,M,DNS,0,,,0.00
-,,Juan Andr�s Blater,ARG,M,DNS,0,,,0.00
-,,Mario Fabi�n Pereyra ,ARG,M,DNS,0,,,0.00
-,,Juan Roberto Silva,ARG,M,DNS,0,,,0.00
-,no,Marcos Gabriel Alonso,ARG,M,DNS,0,,,0.00
-,,Asdrubal Ferrafi,,,DNS,0,,,0.00
-,,,,,DNS,0,,,0.00
-,,,,,DNS,0,,,0.00
-,,,,,DNS,0,,,0.00
-,,,,,DNS,0,,,0.00
-,,,,,DNS,0,,,0.00
-,,,,,DNS,0,,,0.00
-,,,,,DNS,0,,,0.00
-,,,,,DNS,0,,,0.00
-,,,,,DNS,0,,,0.00
-,,,,,DNS,0,,,0.00
-,,,,,DNS,0,,,0.00
-,,,,,DNS,0,,,0.00
+Ranking,Dorsal,Nombre,País,Género,Estado,Vueltas,Última Vuelta,Acumulado,Kms,Tiempos,Horas
+1,1,Diego Ernesto Molina,ARG,M,Activo,1,00:25,00:00:25,6.706,[25],["12:10:24"]
+2,6,Nancy Yamila Ferreira,ARG,F,Activo,1,00:31,00:00:31,6.706,[31],["12:10:31"]
+3,7,Ana Maria Acevedo,ARG,F,Activo,1,00:33,00:00:33,6.706,[33],["12:10:33"]
+4,8,Verónica Irel,ARG,F,Activo,1,00:36,00:00:36,6.706,[36],["12:10:35"]
+5,9,Medardo Augusto Bourlot,ARG,M,Activo,1,00:38,00:00:38,6.706,[38],["12:10:37"]
+6,10,Hernan Diego Laurini,ARG,M,Activo,1,00:41,00:00:41,6.706,[41],["12:10:41"]
+,13,Roberto Carlos Franco,ARG,M,DNF,0,,,0.000,[],[]
+,14,Mariano Jesús García Percara,ARG,M,DNF,0,,,0.000,[],[]
+,16,Guillermo Federico Castrillon,ARG,M,DNF,0,,,0.000,[],[]
+,17,Marina Maricel Solari,ARG,F,DNS,0,,,0.000,[],[]
+,18,Carlos Ignacio Raya,ARG,M,DNS,0,,,0.000,[],[]
+,22,German Gaston Casañas,ARG,M,DNS,0,,,0.000,[],[]
+,24,Betina Maria Bonnin,ARG,F,DNS,0,,,0.000,[],[]
+,25,Juan Andrés Blater,ARG,M,DNS,0,,,0.000,[],[]
+,32,Florencia Dávila Cándido:,UY,F,DNS,0,,,0.000,[],[]
+,34,José Luis Alarcon Arcel,UY,M,DNS,0,,,0.000,[],[]
+,42,Guillermo Andres Heis,ARG,M,DNS,0,,,0.000,[],[]
+,47,Nicolas Mauro Pareyra,ARG,M,DNS,0,,,0.000,[],[]
+,52,Analia Mariel Razetto,ARG,F,DNS,0,,,0.000,[],[]
+,93,Matías Manuel Vescina,ARG,M,DNS,0,,,0.000,[],[]
+,99,Juan Ignacio Timinskas,ARG,M,DNS,0,,,0.000,[],[]
+,111,Pamela García Frossard,ARG,F,DNS,0,,,0.000,[],[]
+,121,Mario Fabián Pereyra ,ARG,M,DNS,0,,,0.000,[],[]
+,134,Andrea Cosso,ARG,F,DNS,0,,,0.000,[],[]
+,156,Marcos Gabriel Alonso,ARG,M,DNS,0,,,0.000,[],[]
+,222,Marcelo Hernan Dietz,ARG,M,DNS,0,,,0.000,[],[]
+,303,Leandro Ariel Brescacin,ARG,M,DNS,0,,,0.000,[],[]
+,332,Juan Roberto Silva,ARG,M,DNS,0,,,0.000,[],[]
+,411,Neri Juan Ramon Godoy,ARG,M,DNS,0,,,0.000,[],[]
+,424,Fernando Javier Barolin,ARG,M,DNS,0,,,0.000,[],[]
+,712,Erica Marcela Vila,ARG,M,DNS,0,,,0.000,[],[]
+,856,Santiago Yapur Lescano,ARG,M,DNS,0,,,0.000,[],[]
+,968,Alejandro Mancini,,M,DNS,0,,,0.000,[],[]
+,1963,Esteban Ignacio Martinez,ARG,M,DNS,0,,,0.000,[],[]
+,1988,Wilson Daniel Guerrero González,UY,M,DNS,0,,,0.000,[],[]
