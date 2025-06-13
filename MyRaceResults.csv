@@ -1,27 +1,27 @@
-Ranking,Dorsal,Nombre,País,Género,Estado,Vueltas,Última Vuelta,Acumulado,Kms,Tiempos,Horas
+﻿Ranking,Dorsal,Nombre,PaÃ­s,GÃ©nero,Estado,Vueltas,Ãšltima Vuelta,Acumulado,Kms,Tiempos,Horas
 "1,1,Diego Ernesto Molina,ARG,M,Activo,1,00:44,00:00:44,6.706,[44],[""10:50:43""]"
 "2,6,Nancy Yamila Ferreira,ARG,F,Activo,1,00:48,00:00:48,6.706,[48],[""10:50:47""]"
 "3,7,Ana Maria Acevedo,ARG,F,Activo,1,00:50,00:00:50,6.706,[50],[""10:50:50""]"
-"4,8,Verónica Irel,ARG,F,Activo,1,00:53,00:00:53,6.706,[53],[""10:50:53""]"
+"4,8,VerÃ³nica Irel,ARG,F,Activo,1,00:53,00:00:53,6.706,[53],[""10:50:53""]"
 "5,9,Medardo Augusto Bourlot,ARG,M,Activo,1,00:56,00:00:56,6.706,[56],[""10:50:55""]"
 ,10,Hernan Diego Laurini,ARG,M,DNS,0,,,0.000,[],[]
 ,13,Roberto Carlos Franco,ARG,M,DNS,0,,,0.000,[],[]
-,14,Mariano Jesús García Percara,ARG,M,DNS,0,,,0.000,[],[]
+,14,Mariano JesÃºs GarcÃ­a Percara,ARG,M,DNS,0,,,0.000,[],[]
 ,16,Guillermo Federico Castrillon,ARG,M,DNS,0,,,0.000,[],[]
 ,17,Marina Maricel Solari,ARG,F,DNS,0,,,0.000,[],[]
 ,18,Carlos Ignacio Raya,ARG,M,DNS,0,,,0.000,[],[]
-,22,German Gaston Casañas,ARG,M,DNS,0,,,0.000,[],[]
+,22,German Gaston CasaÃ±as,ARG,M,DNS,0,,,0.000,[],[]
 ,24,Betina Maria Bonnin,ARG,F,DNS,0,,,0.000,[],[]
-,25,Juan Andrés Blater,ARG,M,DNS,0,,,0.000,[],[]
-,32,Florencia Dávila Cándido:,UY,F,DNS,0,,,0.000,[],[]
-,34,José Luis Alarcon Arcel,UY,M,DNS,0,,,0.000,[],[]
+,25,Juan AndrÃ©s Blater,ARG,M,DNS,0,,,0.000,[],[]
+,32,Florencia DÃ¡vila CÃ¡ndido:,UY,F,DNS,0,,,0.000,[],[]
+,34,JosÃ© Luis Alarcon Arcel,UY,M,DNS,0,,,0.000,[],[]
 ,42,Guillermo Andres Heis,ARG,M,DNS,0,,,0.000,[],[]
 ,47,Nicolas Mauro Pareyra,ARG,M,DNS,0,,,0.000,[],[]
 ,52,Analia Mariel Razetto,ARG,F,DNS,0,,,0.000,[],[]
-,93,Matías Manuel Vescina,ARG,M,DNS,0,,,0.000,[],[]
+,93,MatÃ­as Manuel Vescina,ARG,M,DNS,0,,,0.000,[],[]
 ,99,Juan Ignacio Timinskas,ARG,M,DNS,0,,,0.000,[],[]
-,111,Pamela García Frossard,ARG,F,DNS,0,,,0.000,[],[]
-,121,Mario Fabián Pereyra ,ARG,M,DNS,0,,,0.000,[],[]
+,111,Pamela GarcÃ­a Frossard,ARG,F,DNS,0,,,0.000,[],[]
+,121,Mario FabiÃ¡n Pereyra ,ARG,M,DNS,0,,,0.000,[],[]
 ,134,Andrea Cosso,ARG,F,DNS,0,,,0.000,[],[]
 ,156,Marcos Gabriel Alonso,ARG,M,DNS,0,,,0.000,[],[]
 ,222,Marcelo Hernan Dietz,ARG,M,DNS,0,,,0.000,[],[]
@@ -33,4 +33,4 @@ Ranking,Dorsal,Nombre,País,Género,Estado,Vueltas,Última Vuelta,Acumulado,Kms,
 ,856,Santiago Yapur Lescano,ARG,M,DNS,0,,,0.000,[],[]
 ,968,Alejandro Mancini,,M,DNS,0,,,0.000,[],[]
 ,1963,Esteban Ignacio Martinez,ARG,M,DNS,0,,,0.000,[],[]
-,1988,Wilson Daniel Guerrero González,UY,M,DNS,0,,,0.000,[],[]
+,1988,Wilson Daniel Guerrero GonzÃ¡lez,UY,M,DNS,0,,,0.000,[],[]
