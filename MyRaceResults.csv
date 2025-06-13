@@ -1,36 +1,36 @@
-﻿Ranking,Dorsal,Nombre,PaÃ­s,GÃ©nero,Estado,Vueltas,Ãšltima Vuelta,Acumulado,Kms,Tiempos,Horas
-"1,1,Diego Ernesto Molina,ARG,M,Activo,1,00:44,00:00:44,6.706,[44],[""10:50:43""]"
-"2,6,Nancy Yamila Ferreira,ARG,F,Activo,1,00:48,00:00:48,6.706,[48],[""10:50:47""]"
-"3,7,Ana Maria Acevedo,ARG,F,Activo,1,00:50,00:00:50,6.706,[50],[""10:50:50""]"
-"4,8,VerÃ³nica Irel,ARG,F,Activo,1,00:53,00:00:53,6.706,[53],[""10:50:53""]"
-"5,9,Medardo Augusto Bourlot,ARG,M,Activo,1,00:56,00:00:56,6.706,[56],[""10:50:55""]"
-,10,Hernan Diego Laurini,ARG,M,DNS,0,,,0.000,[],[]
-,13,Roberto Carlos Franco,ARG,M,DNS,0,,,0.000,[],[]
-,14,Mariano JesÃºs GarcÃ­a Percara,ARG,M,DNS,0,,,0.000,[],[]
-,16,Guillermo Federico Castrillon,ARG,M,DNS,0,,,0.000,[],[]
-,17,Marina Maricel Solari,ARG,F,DNS,0,,,0.000,[],[]
-,18,Carlos Ignacio Raya,ARG,M,DNS,0,,,0.000,[],[]
-,22,German Gaston CasaÃ±as,ARG,M,DNS,0,,,0.000,[],[]
-,24,Betina Maria Bonnin,ARG,F,DNS,0,,,0.000,[],[]
-,25,Juan AndrÃ©s Blater,ARG,M,DNS,0,,,0.000,[],[]
-,32,Florencia DÃ¡vila CÃ¡ndido:,UY,F,DNS,0,,,0.000,[],[]
-,34,JosÃ© Luis Alarcon Arcel,UY,M,DNS,0,,,0.000,[],[]
-,42,Guillermo Andres Heis,ARG,M,DNS,0,,,0.000,[],[]
-,47,Nicolas Mauro Pareyra,ARG,M,DNS,0,,,0.000,[],[]
-,52,Analia Mariel Razetto,ARG,F,DNS,0,,,0.000,[],[]
-,93,MatÃ­as Manuel Vescina,ARG,M,DNS,0,,,0.000,[],[]
-,99,Juan Ignacio Timinskas,ARG,M,DNS,0,,,0.000,[],[]
-,111,Pamela GarcÃ­a Frossard,ARG,F,DNS,0,,,0.000,[],[]
-,121,Mario FabiÃ¡n Pereyra ,ARG,M,DNS,0,,,0.000,[],[]
-,134,Andrea Cosso,ARG,F,DNS,0,,,0.000,[],[]
-,156,Marcos Gabriel Alonso,ARG,M,DNS,0,,,0.000,[],[]
-,222,Marcelo Hernan Dietz,ARG,M,DNS,0,,,0.000,[],[]
-,303,Leandro Ariel Brescacin,ARG,M,DNS,0,,,0.000,[],[]
-,332,Juan Roberto Silva,ARG,M,DNS,0,,,0.000,[],[]
-,411,Neri Juan Ramon Godoy,ARG,M,DNS,0,,,0.000,[],[]
-,424,Fernando Javier Barolin,ARG,M,DNS,0,,,0.000,[],[]
-,712,Erica Marcela Vila,ARG,M,DNS,0,,,0.000,[],[]
-,856,Santiago Yapur Lescano,ARG,M,DNS,0,,,0.000,[],[]
-,968,Alejandro Mancini,,M,DNS,0,,,0.000,[],[]
-,1963,Esteban Ignacio Martinez,ARG,M,DNS,0,,,0.000,[],[]
-,1988,Wilson Daniel Guerrero GonzÃ¡lez,UY,M,DNS,0,,,0.000,[],[]
+﻿estado,ranking,dorsal,wp,nombre,Pais,Genero,DNI,fecha de nac.,$
+DNS,,1,5493438608413,Diego Ernesto Molina,ARG,M,20181798,21/07/1968,MP
+DNS,,6,5493454089056,Nancy Yamila Ferreira,ARG,F,29107773,06/02/1982,MP
+DNS,,7,5493442585756,Ana Maria Acevedo,ARG,F,27425704,07/01/1980,MP
+DNS,,8,5493442558057,Verónica Irel,ARG,F,28533632,06/03/1981,MP
+DNS,,9,5493442581800,Medardo Augusto Bourlot,ARG,M,26519407,07/10/1978,NO
+DNS,,10,5493415070736,Hernan Diego Laurini,ARG,M,22205851,03/09/1971,MP
+DNS,,13,5493438407292,Roberto Carlos Franco,ARG,M,22441662,27/02/1972,MP
+DNS,,14,5493442501732,Mariano Jesús García Percara,ARG,M,35700337,11/04/1991,MP
+DNS,,16,5493437401912,Guillermo Federico Castrillon,ARG,M,22956689,28/11/1972,MP
+DNS,,17,5493444446999,Marina Maricel Solari,ARG,F,30094845,27/10/1983,MP
+DNS,,18,5493438407080,Carlos Ignacio Raya,ARG,M,34656111,07/09/1989,MP
+DNS,,22,5493442521391,German Gaston Casañas,ARG,M,28533804,22/05/1981,MP
+DNS,,24,5493442570320,Betina Maria Bonnin,ARG,F,22544257,07/03/1972,MP
+DNS,,25,5493442622715,Juan Andrés Blater,ARG,M,30406879,22/10/1983,MP
+DNS,,32,59892178147,Florencia Dávila Cándido:,UY,F,5527304-6,03/03/2002,Pr
+DNS,,34,59899776949,José Luis Alarcon Arcel,UY,M,4657159-2,20/03/1991,Pr
+DNS,,42,5493442629536,Guillermo Andres Heis,ARG,m,29883846,17/03/1983,MP
+DNS,,52,5493412727065,Analia Mariel Razetto,ARG,F,22771984,03/11/1972,MP
+DNS,,93,5493444629080,Matías Manuel Vescina,ARG,M,37289915,17/02/1993,MP
+DNS,,99,5491164527908,Juan Ignacio Timinskas,ARG,M,31177676,27/11/1984,MP
+DNS,,121,5493416775004,Mario Fabián Pereyra ,ARG,M,30106674,19/11/1980,MP
+DNS,,134,5493444622613,Andrea Cosso,ARG,F,34680978,04/02/1990,MP
+DNS,,222,5493438459708,Marcelo Hernan Dietz,ARG,M,26059800,20/09/1977,MP
+DNS,,303,5493446591530,Leandro Ariel Brescacin,ARG,M,23392993,11/02/1974,MP
+DNS,,332,5493442470332,Juan Roberto Silva,ARG,M,16366945,27/01/1963,MP
+DNS,,411,5493412673210,Neri Juan Ramon Godoy,ARG,M,34051515,04/11/1988,25000
+DNS,,424,5493437444048,Fernando Javier Barolin,ARG,M,23708263,03/03/1974,MP
+DNS,,712,5493437459214,Erica Marcela Vila,ARG,M,32424221,07/12/1985,MP
+DNS,,1963,5493437414965,Esteban Ignacio Martinez,ARG,M,16610313,12/09/1963,MP
+DNS,,1988,59891851354,Wilson Daniel Guerrero González,UY,M,42696342,12/07/1988,Pr
+DNS,,47,5493446379553,Nicolas Mauro Pareyra,ARG,M,37659959,06/07/1993,MP
+DNS,,968,5491155949968,Alejandro Mancini,,M,,,NO
+DNS,,156,5491163689156,Marcos Gabriel Alonso,ARG,M,22297494,03/08/1971,MP
+DNS,,856,59898865856,Santiago Yapur Lescano,ARG,M,39972050,NO,NO
+DNS,,111,5493442407857,Pamela García Frossard,ARG,F,38783938,27/11/1994,NO
