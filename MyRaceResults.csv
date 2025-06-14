@@ -1,33 +1,33 @@
 Ranking,Dorsal,Nombre,País,Género,Estado,Vueltas,Última Vuelta,Acumulado,Kms
-1,1,Diego Ernesto Molina,ARG,M,Activo,9,47:19:00,07:13:56,60.354
-2,6,Nancy Yamila Ferreira,ARG,F,Activo,9,47:54:00,07:10:25,60.354
-3,10,Hernan Diego Laurini,ARG,M,Activo,9,41:57:00,06:25:26,60.354
-4,13,Roberto Carlos Franco,ARG,M,Activo,9,47:47:00,07:11:18,60.354
-5,14,Mariano Jes?s Garc?a Percara,ARG,M,Activo,9,50:13:00,07:00:52,60.354
-6,16,Guillermo Federico Castrillon,ARG,M,Activo,9,46:55:00,07:10:15,60.354
-7,17,Marina Maricel Solari,ARG,F,Activo,9,36:48:00,05:54:50,60.354
-8,18,Carlos Ignacio Raya,ARG,M,Activo,9,53:25:00,07:12:58,60.354
-9,22,German Gaston Casa?as,ARG,M,Activo,9,43:42:00,06:28:31,60.354
-10,24,Betina Maria Bonnin,ARG,F,Activo,9,44:58:00,06:39:44,60.354
-11,25,Juan Andr?s Blater,ARG,M,Activo,9,44:04:00,06:54:31,60.354
-12,32,Florencia D?vila C?ndido:,UY,F,Activo,9,49:29:00,06:59:23,60.354
-13,34,Jos? Luis Alarcon Arcel,UY,M,Activo,9,44:06:00,06:33:58,60.354
-14,47,Nicolas Mauro Pareyra,ARG,M,Activo,9,44:09:00,06:46:04,60.354
-15,99,Juan Ignacio Timinskas,ARG,M,Activo,9,46:47:00,06:56:05,60.354
-16,121,Mario Fabi?n Pereyra ,ARG,M,Activo,9,45:14:00,06:21:22,60.354
-17,222,Marcelo Hernan Dietz,ARG,M,Activo,9,47:45:00,06:32:42,60.354
-18,303,Leandro Ariel Brescacin,ARG,M,Activo,9,36:46:00,05:38:12,60.354
-19,424,Fernando Javier Barolin,ARG,M,Activo,9,48:09:00,07:07:19,60.354
-20,712,Erica Marcela Vila,ARG,M,Activo,9,46:53:00,07:04:30,60.354
+1,1,Diego Ernesto Molina,ARG,M,Activo,10,46:56:00,08:00:52,67.060
+2,6,Nancy Yamila Ferreira,ARG,F,Activo,10,49:55:00,08:00:20,67.060
+3,10,Hernan Diego Laurini,ARG,M,Activo,10,45:09:00,07:10:35,67.060
+4,13,Roberto Carlos Franco,ARG,M,Activo,10,49:45:00,08:01:03,67.060
+5,14,Mariano Jes?s Garc?a Percara,ARG,M,Activo,10,47:20:00,07:48:12,67.060
+6,16,Guillermo Federico Castrillon,ARG,M,Activo,10,45:55:00,07:56:10,67.060
+7,17,Marina Maricel Solari,ARG,F,Activo,10,40:06:00,06:34:56,67.060
+8,18,Carlos Ignacio Raya,ARG,M,Activo,10,49:43:00,08:02:41,67.060
+9,22,German Gaston Casa?as,ARG,M,Activo,10,46:21:00,07:14:52,67.060
+10,24,Betina Maria Bonnin,ARG,F,Activo,10,45:00:00,07:24:44,67.060
+11,25,Juan Andr?s Blater,ARG,M,Activo,10,47:22:00,07:41:53,67.060
+12,34,Jos? Luis Alarcon Arcel,UY,M,Activo,10,40:04:00,07:14:02,67.060
+13,47,Nicolas Mauro Pareyra,ARG,M,Activo,10,44:57:00,07:31:01,67.060
+14,99,Juan Ignacio Timinskas,ARG,M,Activo,10,45:21:00,07:41:26,67.060
+15,121,Mario Fabi?n Pereyra ,ARG,M,Activo,10,46:31:00,07:07:53,67.060
+16,222,Marcelo Hernan Dietz,ARG,M,Activo,10,50:21:00,07:23:03,67.060
+17,303,Leandro Ariel Brescacin,ARG,M,Activo,10,40:20:00,06:18:32,67.060
+18,424,Fernando Javier Barolin,ARG,M,Activo,10,46:54:00,07:54:13,67.060
+19,712,Erica Marcela Vila,ARG,M,Activo,10,46:00:00,07:50:30,67.060
+20,32,Florencia D?vila C?ndido:,UY,F,DNF,9,49:29:00,06:59:23,60.354
 21,7,Ana Maria Acevedo,ARG,F,DNF,8,41:10:00,05:51:19,53.648
 22,8,Ver?nica Irel,ARG,F,DNF,8,41:07:00,05:36:41,53.648
 23,9,Medardo Augusto Bourlot,ARG,M,DNF,8,46:03:00,05:55:40,53.648
 24,42,Guillermo Andres Heis,ARG,M,DNF,8,44:21:00,05:45:29,53.648
-25,1963,Esteban Ignacio Martinez,ARG,M,DNF,8,47:28:00,05:31:02,53.648
+25,1988,Wilson Daniel Guerrero Gonz?lez,UY,M,DNF,8,44:05:00,05:23:51,53.648
 26,52,Analia Mariel Razetto,ARG,F,DNF,7,42:06:00,05:09:19,46.942
 27,93,Mat?as Manuel Vescina,ARG,M,DNF,7,47:40:00,05:21:46,46.942
 28,134,Andrea Cosso,ARG,F,DNF,7,47:46:00,05:19:13,46.942
-29,1988,Wilson Daniel Guerrero Gonz?lez,UY,M,DNF,7,44:05:00,05:23:51,46.942
+29,1963,Esteban Ignacio Martinez,ARG,M,DNF,7,47:28:00,05:31:02,46.942
 ,111,Pamela Garc?a Frossard,ARG,F,DNF,0,,,0.000
 ,156,Marcos Gabriel Alonso,ARG,M,DNF,0,,,0.000
 ,332,Juan Roberto Silva,ARG,M,DNF,0,,,0.000
