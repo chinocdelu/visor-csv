@@ -1,36 +1,36 @@
-Ranking,Dorsal,Nombre,PaÃ­s,GÃ©nero,Estado,Vueltas,Ãšltima Vuelta,Acumulado,Kms,Tiempos,Horas
-"1,1,Diego Ernesto Molina,ARG,M,Activo,1,48:15,00:48:15,6.706,[2895],[""09:51:15""]"
-"2,6,Nancy Yamila Ferreira,ARG,F,Activo,1,46:51,00:46:51,6.706,[2811],[""09:51:50""]"
-"3,7,Ana Maria Acevedo,ARG,F,Activo,1,42:03,00:42:03,6.706,[2523],[""09:49:03""]"
-"4,8,Verï¿½nica Irel,ARG,F,Activo,1,42:04,00:42:04,6.706,[2524],[""09:49:04""]"
-"5,9,Medardo Augusto Bourlot,ARG,M,Activo,1,43:07,00:43:07,6.706,[2587],[""09:49:07""]"
-"6,10,Hernan Diego Laurini,ARG,M,Activo,1,40:41,00:40:41,6.706,[2441],[""09:48:40""]"
-"7,13,Roberto Carlos Franco,ARG,M,Activo,1,47:13,00:47:13,6.706,[2833],[""09:51:12""]"
-"8,14,Mariano Jesï¿½s Garcï¿½a Percara,ARG,M,Activo,1,43:08,00:43:08,6.706,[2588],[""09:50:08""]"
-"9,16,Guillermo Federico Castrillon,ARG,M,Activo,1,45:26,00:45:26,6.706,[2726],[""09:50:25""]"
-"10,17,Marina Maricel Solari,ARG,F,Activo,1,40:00,00:40:00,6.706,[2400],[""09:48:35""]"
-"11,18,Carlos Ignacio Raya,ARG,M,Activo,1,46:10,00:46:10,6.706,[2770],[""09:51:10""]"
-"12,22,German Gaston Casaï¿½as,ARG,M,Activo,1,42:56,00:42:56,6.706,[2576],[""09:48:56""]"
-"13,24,Betina Maria Bonnin,ARG,F,Activo,1,50:29,00:50:29,6.706,[3029],[""09:50:28""]"
-"14,25,Juan Andrï¿½s Blater,ARG,M,Activo,1,45:32,00:45:32,6.706,[2732],[""09:50:32""]"
-"15,32,Florencia Dï¿½vila Cï¿½ndido:,UY,F,Activo,1,46:07,00:46:07,6.706,[2767],[""09:51:06""]"
-"16,34,Josï¿½ Luis Alarcon Arcel,UY,M,Activo,1,46:02,00:46:02,6.706,[2762],[""09:51:02""]"
-"17,42,Guillermo Andres Heis,ARG,M,Activo,1,42:53,00:42:53,6.706,[2573],[""09:48:53""]"
-"18,47,Nicolas Mauro Pareyra,ARG,M,Activo,1,43:11,00:43:11,6.706,[2591],[""09:50:10""]"
-"19,52,Analia Mariel Razetto,ARG,F,Activo,1,45:35,00:45:35,6.706,[2735],[""09:50:35""]"
-"20,93,Matï¿½as Manuel Vescina,ARG,M,Activo,1,42:00,00:42:00,6.706,[2520],[""09:49:00""]"
-"21,99,Juan Ignacio Timinskas,ARG,M,Activo,1,44:16,00:44:16,6.706,[2656],[""09:50:15""]"
-"22,121,Mario Fabiï¿½n Pereyra ,ARG,M,Activo,1,39:00,00:39:00,6.706,[2340],[""09:48:22""]"
-"23,134,Andrea Cosso,ARG,F,Activo,1,40:49,00:40:49,6.706,[2449],[""09:48:48""]"
-"24,222,Marcelo Hernan Dietz,ARG,M,Activo,1,43:02,00:43:02,6.706,[2582],[""09:50:01""]"
-"25,303,Leandro Ariel Brescacin,ARG,M,Activo,1,40:45,00:40:45,6.706,[2445],[""09:48:45""]"
-"26,424,Fernando Javier Barolin,ARG,M,Activo,1,42:20,00:42:20,6.706,[2540],[""09:50:19""]"
-"27,712,Erica Marcela Vila,ARG,M,Activo,1,44:23,00:44:23,6.706,[2663],[""09:50:23""]"
-"28,1963,Esteban Ignacio Martinez,ARG,M,Activo,1,46:40,00:46:40,6.706,[2800],[""09:50:39""]"
-"29,1988,Wilson Daniel Guerrero Gonzï¿½lez,UY,M,Activo,1,46:44,00:46:44,6.706,[2804],[""09:50:43""]"
-,111,Pamela Garcï¿½a Frossard,ARG,F,DNS,0,,,0.000,[],[]
-,156,Marcos Gabriel Alonso,ARG,M,DNS,0,,,0.000,[],[]
-,332,Juan Roberto Silva,ARG,M,DNS,0,,,0.000,[],[]
-,411,Neri Juan Ramon Godoy,ARG,M,DNS,0,,,0.000,[],[]
-,856,Santiago Yapur Lescano,ARG,M,DNS,0,,,0.000,[],[]
-,968,Alejandro Mancini,,M,DNS,0,,,0.000,[],[]
+Ranking;Dorsal;Nombre;País;Género;Estado;Vueltas;Última Vuelta;Acumulado;Kms
+1;1;Diego Ernesto Molina;ARG;M;Activo;2;48:14:00;01:36:29;13.412
+2;6;Nancy Yamila Ferreira;ARG;F;Activo;2;49:42:00;01:36:33;13.412
+3;7;Ana Maria Acevedo;ARG;F;Activo;2;49:39:00;01:31:42;13.412
+4;8;Ver?nica Irel;ARG;F;Activo;2;43:25:00;01:25:29;13.412
+5;9;Medardo Augusto Bourlot;ARG;M;Activo;2;45:08:00;01:28:15;13.412
+6;10;Hernan Diego Laurini;ARG;M;Activo;2;42:16:00;01:22:57;13.412
+7;13;Roberto Carlos Franco;ARG;M;Activo;2;48:55:00;01:36:08;13.412
+8;14;Mariano Jes?s Garc?a Percara;ARG;M;Activo;2;47:20:00;01:30:28;13.412
+9;16;Guillermo Federico Castrillon;ARG;M;Activo;2;48:17:00;01:33:43;13.412
+10;17;Marina Maricel Solari;ARG;F;Activo;2;41:15:00;01:21:15;13.412
+11;18;Carlos Ignacio Raya;ARG;M;Activo;2;49:09:00;01:35:19;13.412
+12;22;German Gaston Casa?as;ARG;M;Activo;2;43:17:00;01:26:13;13.412
+13;24;Betina Maria Bonnin;ARG;F;Activo;2;43:42:00;01:34:11;13.412
+14;25;Juan Andr?s Blater;ARG;M;Activo;2;47:24:00;01:32:56;13.412
+15;32;Florencia D?vila C?ndido:;UY;F;Activo;2;45:52:00;01:31:59;13.412
+16;34;Jos? Luis Alarcon Arcel;UY;M;Activo;2;45:05:00;01:31:07;13.412
+17;42;Guillermo Andres Heis;ARG;M;Activo;2;43:19:00;01:26:12;13.412
+18;47;Nicolas Mauro Pareyra;ARG;M;Activo;2;47:16:00;01:30:27;13.412
+19;52;Analia Mariel Razetto;ARG;F;Activo;2;44:55:00;01:30:30;13.412
+20;93;Mat?as Manuel Vescina;ARG;M;Activo;2;42:59:00;01:24:59;13.412
+21;99;Juan Ignacio Timinskas;ARG;M;Activo;2;43:48:00;01:28:04;13.412
+22;121;Mario Fabi?n Pereyra ;ARG;M;Activo;2;40:47:00;01:19:47;13.412
+23;134;Andrea Cosso;ARG;F;Activo;2;42:53:00;01:23:42;13.412
+24;222;Marcelo Hernan Dietz;ARG;M;Activo;2;41:19:00;01:24:21;13.412
+25;303;Leandro Ariel Brescacin;ARG;M;Activo;2;40:59:00;01:21:44;13.412
+26;424;Fernando Javier Barolin;ARG;M;Activo;2;47:29:00;01:29:49;13.412
+27;712;Erica Marcela Vila;ARG;M;Activo;2;48:04:00;01:32:27;13.412
+28;1963;Esteban Ignacio Martinez;ARG;M;Activo;2;47:34:00;01:34:14;13.412
+29;1988;Wilson Daniel Guerrero Gonz?lez;UY;M;Activo;2;46:43:00;01:33:27;13.412
+;111;Pamela Garc?a Frossard;ARG;F;DNS;0;;;0.000
+;156;Marcos Gabriel Alonso;ARG;M;DNS;0;;;0.000
+;332;Juan Roberto Silva;ARG;M;DNS;0;;;0.000
+;411;Neri Juan Ramon Godoy;ARG;M;DNS;0;;;0.000
+;856;Santiago Yapur Lescano;ARG;M;DNS;0;;;0.000
+;968;Alejandro Mancini;;M;DNS;0;;;0.000
