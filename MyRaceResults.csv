@@ -1,34 +1,34 @@
-Ranking,Dorsal,Nombre,País,Género,Estado,Vueltas,Última Vuelta,Acumulado,Kms
-1,1,Diego Ernesto Molina,ARG,M,Activo,4,49:30:00,03:14:07,26.824
-2,6,Nancy Yamila Ferreira,ARG,F,Activo,4,49:02:00,03:14:27,26.824
-3,7,Ana Maria Acevedo,ARG,F,Activo,4,43:48:00,02:58:53,26.824
-4,8,Ver?nica Irel,ARG,F,Activo,4,42:32:00,02:51:29,26.824
-5,9,Medardo Augusto Bourlot,ARG,M,Activo,4,44:37:00,02:56:31,26.824
-6,10,Hernan Diego Laurini,ARG,M,Activo,4,41:13:00,02:45:35,26.824
-7,13,Roberto Carlos Franco,ARG,M,Activo,4,49:16:00,03:12:46,26.824
-8,14,Mariano Jes?s Garc?a Percara,ARG,M,Activo,4,48:29:00,03:04:01,26.824
-9,16,Guillermo Federico Castrillon,ARG,M,Activo,4,49:23:00,03:11:25,26.824
-10,17,Marina Maricel Solari,ARG,F,Activo,4,39:36:00,02:39:53,26.824
-11,18,Carlos Ignacio Raya,ARG,M,Activo,4,49:34:00,03:12:13,26.824
-12,22,German Gaston Casa?as,ARG,M,Activo,4,42:30:00,02:51:36,26.824
-13,24,Betina Maria Bonnin,ARG,F,Activo,4,43:52:00,03:00:19,26.824
-14,25,Juan Andr?s Blater,ARG,M,Activo,4,48:33:00,03:06:09,26.824
-15,32,Florencia D?vila C?ndido:,UY,F,Activo,4,48:59:00,03:06:50,26.824
-16,34,Jos? Luis Alarcon Arcel,UY,M,Activo,4,48:58:00,03:04:48,26.824
-17,42,Guillermo Andres Heis,ARG,M,Activo,4,42:35:00,02:52:13,26.824
-18,47,Nicolas Mauro Pareyra,ARG,M,Activo,4,48:24:00,03:03:51,26.824
-19,52,Analia Mariel Razetto,ARG,F,Activo,4,48:03:00,03:02:45,26.824
-20,93,Mat?as Manuel Vescina,ARG,M,Activo,4,48:15:00,02:57:35,26.824
-21,99,Juan Ignacio Timinskas,ARG,M,Activo,4,48:48:00,03:01:47,26.824
-22,121,Mario Fabi?n Pereyra ,ARG,M,Activo,4,47:52:00,02:46:02,26.824
-23,134,Andrea Cosso,ARG,F,Activo,4,48:20:00,02:56:19,26.824
-24,222,Marcelo Hernan Dietz,ARG,M,Activo,4,44:23:00,02:52:17,26.824
-25,303,Leandro Ariel Brescacin,ARG,M,Activo,4,37:21:00,02:37:36,26.824
-26,424,Fernando Javier Barolin,ARG,M,Activo,4,49:11:00,03:05:41,26.824
-27,712,Erica Marcela Vila,ARG,M,Activo,4,49:20:00,03:10:03,26.824
-28,1963,Esteban Ignacio Martinez,ARG,M,Activo,4,49:07:00,03:09:44,26.824
-29,1988,Wilson Daniel Guerrero Gonz?lez,UY,M,Activo,4,47:58:00,03:03:02,26.824
-,111,Pamela Garc?a Frossard,ARG,F,DNF,0,,,0.000
+Ranking,Dorsal,Nombre,PaÃ­s,GÃ©nero,Estado,Vueltas,Ãšltima Vuelta,Acumulado,Kms
+1,1,Diego Ernesto Molina,ARG,M,Activo,5,49:55,04:04:02,33.530
+2,6,Nancy Yamila Ferreira,ARG,F,Activo,5,46:25,04:00:52,33.530
+3,7,Ana Maria Acevedo,ARG,F,Activo,5,49:07,03:48:00,33.530
+4,8,Verï¿½nica Irel,ARG,F,Activo,5,42:22,03:33:51,33.530
+5,9,Medardo Augusto Bourlot,ARG,M,Activo,5,47:27,03:43:58,33.530
+6,10,Hernan Diego Laurini,ARG,M,Activo,5,49:02,03:34:37,33.530
+7,13,Roberto Carlos Franco,ARG,M,Activo,5,49:39,04:02:25,33.530
+8,14,Mariano Jesï¿½s Garcï¿½a Percara,ARG,M,Activo,5,49:31,03:53:32,33.530
+9,16,Guillermo Federico Castrillon,ARG,M,Activo,5,49:42,04:01:07,33.530
+10,17,Marina Maricel Solari,ARG,F,Activo,5,40:07,03:20:00,33.530
+11,18,Carlos Ignacio Raya,ARG,M,Activo,5,46:03,03:58:16,33.530
+12,22,German Gaston Casaï¿½as,ARG,M,Activo,5,42:29,03:34:05,33.530
+13,24,Betina Maria Bonnin,ARG,F,Activo,5,42:35,03:42:54,33.530
+14,25,Juan Andrï¿½s Blater,ARG,M,Activo,5,46:00,03:52:09,33.530
+15,32,Florencia Dï¿½vila Cï¿½ndido:,UY,F,Activo,5,43:15,03:50:05,33.530
+16,34,Josï¿½ Luis Alarcon Arcel,UY,M,Activo,5,49:57,03:54:45,33.530
+17,42,Guillermo Andres Heis,ARG,M,Activo,5,49:18,03:41:31,33.530
+18,47,Nicolas Mauro Pareyra,ARG,M,Activo,5,43:33,03:47:24,33.530
+19,52,Analia Mariel Razetto,ARG,F,Activo,5,42:12,03:44:57,33.530
+20,93,Matï¿½as Manuel Vescina,ARG,M,Activo,5,49:35,03:47:10,33.530
+21,99,Juan Ignacio Timinskas,ARG,M,Activo,5,45:56,03:47:43,33.530
+22,121,Mario Fabiï¿½n Pereyra ,ARG,M,Activo,5,38:49,03:24:51,33.530
+23,134,Andrea Cosso,ARG,F,Activo,5,45:48,03:42:07,33.530
+24,222,Marcelo Hernan Dietz,ARG,M,Activo,5,41:49,03:34:06,33.530
+25,303,Leandro Ariel Brescacin,ARG,M,Activo,5,36:05,03:13:41,33.530
+26,424,Fernando Javier Barolin,ARG,M,Activo,5,49:27,03:55:08,33.530
+27,712,Erica Marcela Vila,ARG,M,Activo,5,47:00,03:57:03,33.530
+28,1963,Esteban Ignacio Martinez,ARG,M,Activo,5,46:28,03:56:12,33.530
+29,1988,Wilson Daniel Guerrero Gonzï¿½lez,UY,M,Activo,5,49:12,03:52:14,33.530
+,111,Pamela Garcï¿½a Frossard,ARG,F,DNF,0,,,0.000
 ,156,Marcos Gabriel Alonso,ARG,M,DNF,0,,,0.000
 ,332,Juan Roberto Silva,ARG,M,DNF,0,,,0.000
 ,411,Neri Juan Ramon Godoy,ARG,M,DNF,0,,,0.000
