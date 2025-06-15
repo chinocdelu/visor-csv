@@ -1,16 +1,16 @@
 ﻿Ranking,Dorsal,Nombre,País,Género,Estado,Vueltas,Última Vuelta,Acumulado,Kms
-1,1,Diego Ernesto Molina,ARG,M,Activo,13,47:39,10:24:15,87.178
-2,14,Mariano Jesús García Percara,ARG,M,Activo,13,47:44,10:08:00,87.178
-3,16,Guillermo Federico Castrillon,ARG,M,Activo,13,47:37,10:24:08,87.178
-4,17,Marina Maricel Solari,ARG,F,Activo,13,43:11,08:37:56,87.178
-5,24,Betina Maria Bonnin,ARG,F,Activo,13,44:48,09:41:02,87.178
-6,25,Juan Andrés Blater,ARG,M,Activo,13,46:58,10:04:18,87.178
-7,34,José Luis Alarcon Arcel,UY,M,Activo,13,43:18,09:17:09,87.178
-8,47,Nicolas Mauro Pareyra,ARG,M,Activo,13,44:23,09:44:20,87.178
-9,99,Juan Ignacio Timinskas,ARG,M,Activo,13,48:00,10:05:22,87.178
-10,303,Leandro Ariel Brescacin,ARG,M,Activo,13,42:58,08:21:08,87.178
-11,424,Fernando Javier Barolin,ARG,M,Activo,13,47:27,10:24:58,87.178
-12,712,Erica Marcela Vila,ARG,M,Activo,13,47:29,10:13:11,87.178
+1,1,Diego Ernesto Molina,ARG,M,Activo,14,48:05,11:12:20,93.884
+2,14,Mariano Jesús García Percara,ARG,M,Activo,14,52:12,11:00:12,93.884
+3,16,Guillermo Federico Castrillon,ARG,M,Activo,14,46:05,11:10:13,93.884
+4,17,Marina Maricel Solari,ARG,F,Activo,14,43:15,09:21:11,93.884
+5,24,Betina Maria Bonnin,ARG,F,Activo,14,45:21,10:26:23,93.884
+6,25,Juan Andrés Blater,ARG,M,Activo,14,52:10,10:56:28,93.884
+7,34,José Luis Alarcon Arcel,UY,M,Activo,14,41:57,09:59:06,93.884
+8,47,Nicolas Mauro Pareyra,ARG,M,Activo,14,44:45,10:29:05,93.884
+9,99,Juan Ignacio Timinskas,ARG,M,Activo,14,49:56,10:55:18,93.884
+10,303,Leandro Ariel Brescacin,ARG,M,Activo,14,41:47,09:02:55,93.884
+11,424,Fernando Javier Barolin,ARG,M,Activo,14,47:59,11:12:57,93.884
+12,712,Erica Marcela Vila,ARG,M,Activo,14,48:01,11:01:12,93.884
 13,10,Hernan Diego Laurini,ARG,M,DNF,11,46:58,07:57:33,73.766
 14,22,German Gaston Casañas,ARG,M,DNF,11,49:50,08:04:42,73.766
 15,121,Mario Fabián Pereyra,ARG,M,DNF,11,45:57,07:53:50,73.766
@@ -28,9 +28,9 @@
 27,93,Matías Manuel Vescina,ARG,M,DNF,7,47:40,05:21:46,46.942
 28,134,Andrea Cosso,ARG,F,DNF,7,47:46,05:19:13,46.942
 29,1988,Wilson Daniel Guerrero González,UY,M,DNF,7,44:05,05:23:51,46.942
-,111,Pamela García Frossard,ARG,F,DNF,0,,,0.000
-,156,Marcos Gabriel Alonso,ARG,M,DNF,0,,,0.000
-,332,Juan Roberto Silva,ARG,M,DNF,0,,,0.000
-,411,Neri Juan Ramon Godoy,ARG,M,DNF,0,,,0.000
-,856,Santiago Yapur Lescano,ARG,M,DNF,0,,,0.000
-,968,Alejandro Mancini,,M,DNF,0,,,0.000
+,111,Pamela García Frossard,ARG,F,DNS,0,,,0.000
+,156,Marcos Gabriel Alonso,ARG,M,DNS,0,,,0.000
+,332,Juan Roberto Silva,ARG,M,DNS,0,,,0.000
+,411,Neri Juan Ramon Godoy,ARG,M,DNS,0,,,0.000
+,856,Santiago Yapur Lescano,ARG,M,DNS,0,,,0.000
+,968,Alejandro Mancini,,M,DNS,0,,,0.000
