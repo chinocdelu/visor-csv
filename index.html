@@ -37,6 +37,10 @@
       padding: 8px; 
       text-align: left; 
     }
+    .acumulado-verde {
+      color: #1bb71b !important;
+      font-weight: bold;
+    }
   </style>
 </head>
 <body>
@@ -96,18 +100,39 @@
       const lines = csvText.trim().split('\n');
       const table = document.createElement('table');
 
-      lines.forEach((line, index) => {
-        const row = document.createElement('tr');
-        const cells = line.split(',');
+      // Parse header
+      const headers = lines[0].split(',').map(h => h.trim());
+      const acumuladoIndex = headers.findIndex(h => h.toLowerCase() === "acumulado");
+      const rankingIndex = headers.findIndex(h => h.toLowerCase() === "ranking");
 
-        cells.forEach(cell => {
-          const cellElement = document.createElement(index === 0 ? 'th' : 'td');
-          cellElement.textContent = cell.trim();
-          row.appendChild(cellElement);
+      // Header row
+      const headerRow = document.createElement('tr');
+      headers.forEach(h => {
+        const th = document.createElement('th');
+        th.textContent = h;
+        headerRow.appendChild(th);
+      });
+      table.appendChild(headerRow);
+
+      // Data rows
+      for (let i = 1; i < lines.length; i++) {
+        const row = document.createElement('tr');
+        const cells = lines[i].split(',');
+        const rankingValue = rankingIndex !== -1 ? cells[rankingIndex].trim() : "";
+
+        cells.forEach((cell, idx) => {
+          const td = document.createElement('td');
+          td.textContent = cell.trim();
+
+          // Si es la celda "Acumulado" y la fila tiene Ranking 1, pinta la letra de verde
+          if (idx === acumuladoIndex && rankingValue === "1") {
+            td.classList.add('acumulado-verde');
+          }
+          row.appendChild(td);
         });
 
         table.appendChild(row);
-      });
+      }
 
       const output = document.getElementById('output');
       output.innerHTML = '';
