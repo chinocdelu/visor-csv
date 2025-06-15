@@ -1,36 +1,36 @@
-Ranking,Dorsal,Nombre,Pa?,G?ero,Estado,Vueltas,?ltima Vuelta,Acumulado,Kms
-1,1,Diego Ernesto Molina,ARG,M,Activo,22,51:37:00,17:55:10,147.532
-2,47,Nicolas Mauro Pareyra,ARG,M,Activo,22,48:38:00,17:01:38,147.532
-3,25,Juan Andr?s Blater,ARG,M,DNF,20,52:53:00,15:49:35,134.120
-4,34,Jos? Luis Alarcon Arcel,UY,M,DNF,19,49:35:00,13:54:30,127.414
-5,14,Mariano Jes?s Garc?a Percara,ARG,M,DNF,18,55:38:00,14:21:28,120.708
-6,99,Juan Ignacio Timinskas,ARG,M,DNF,16,51:28:00,12:37:12,107.296
-7,17,Marina Maricel Solari,ARG,F,DNF,15,46:47:00,10:07:58,100.590
-8,24,Betina Maria Bonnin,ARG,F,DNF,15,45:49:00,11:12:12,100.590
-9,303,Leandro Ariel Brescacin,ARG,M,DNF,15,46:25:00,09:49:20,100.590
-10,424,Fernando Javier Barolin,ARG,M,DNF,15,47:51:00,12:00:48,100.590
-11,16,Guillermo Federico Castrillon,ARG,M,DNF,14,46:05:00,11:10:13,93.884
-12,712,Erica Marcela Vila,ARG,M,DNF,14,48:01:00,11:01:12,93.884
-13,10,Hernan Diego Laurini,ARG,M,DNF,11,46:58:00,07:57:33,73.766
-14,22,German Gaston Casa?as,ARG,M,DNF,11,49:50:00,08:04:42,73.766
-15,121,Mario Fabi?n Pereyra ,ARG,M,DNF,11,45:57:00,07:53:50,73.766
-16,6,Nancy Yamila Ferreira,ARG,F,DNF,10,49:55:00,08:00:20,67.060
-17,13,Roberto Carlos Franco,ARG,M,DNF,10,49:45:00,08:01:03,67.060
-18,18,Carlos Ignacio Raya,ARG,M,DNF,10,49:43:00,08:02:41,67.060
-19,222,Marcelo Hernan Dietz,ARG,M,DNF,10,50:21:00,07:23:03,67.060
-20,32,Florencia D?vila C?ndido:,UY,F,DNF,9,49:29:00,06:59:23,60.354
-21,7,Ana Maria Acevedo,ARG,F,DNF,8,41:10:00,05:51:19,53.648
-22,8,Ver?nica Irel,ARG,F,DNF,8,41:07:00,05:36:41,53.648
-23,9,Medardo Augusto Bourlot,ARG,M,DNF,8,46:03:00,05:55:40,53.648
-24,42,Guillermo Andres Heis,ARG,M,DNF,8,44:21:00,05:45:29,53.648
-25,52,Analia Mariel Razetto,ARG,F,DNF,7,42:06:00,05:09:19,46.942
-26,93,Mat?as Manuel Vescina,ARG,M,DNF,7,47:40:00,05:21:46,46.942
-27,134,Andrea Cosso,ARG,F,DNF,7,47:46:00,05:19:13,46.942
-28,1963,Esteban Ignacio Martinez,ARG,M,DNF,7,47:28:00,05:31:02,46.942
-29,1988,Wilson Daniel Guerrero Gonz?lez,UY,M,DNF,7,44:05:00,05:23:51,46.942
-,111,Pamela Garc?a Frossard,ARG,F,DNF,0,,,0.000
-,156,Marcos Gabriel Alonso,ARG,M,DNF,0,,,0.000
-,332,Juan Roberto Silva,ARG,M,DNF,0,,,0.000
-,411,Neri Juan Ramon Godoy,ARG,M,DNF,0,,,0.000
-,856,Santiago Yapur Lescano,ARG,M,DNF,0,,,0.000
-,968,Alejandro Mancini,,M,DNF,0,,,0.000
+Ranking,Dorsal,Nombre,Pa?,G?ero,Estado,Vueltas,?ltima Vuelta,Acumulado,Kms,
+1,47,Nicolas Mauro Pareyra,ARG,M,Activo,26,35:45:00,20:12:10,174.356,
+2,1,Diego Ernesto Molina,ARG,M,DNF,25,51:28:00,19:51:38,167.650,
+3,25,Juan Andr?s Blater,ARG,M,DNF,20,52:53:00,15:49:35,134.120,
+4,34,Jos? Luis Alarcon Arcel,UY,M,DNF,19,49:35:00,13:54:30,127.414,
+5,14,Mariano Jes?s Garc?a Percara,ARG,M,DNF,18,55:38:00,14:21:28,120.708,
+6,99,Juan Ignacio Timinskas,ARG,M,DNF,16,51:28:00,12:37:12,107.296,
+7,17,Marina Maricel Solari,ARG,F,DNF,15,46:47:00,10:07:58,100.590,
+8,24,Betina Maria Bonnin,ARG,F,DNF,15,45:49:00,11:12:12,100.590,
+9,303,Leandro Ariel Brescacin,ARG,M,DNF,15,46:25:00,09:49:20,100.590,
+10,424,Fernando Javier Barolin,ARG,M,DNF,15,47:51:00,12:00:48,100.590,
+11,16,Guillermo Federico Castrillon,ARG,M,DNF,14,46:05:00,11:10:13,93.884,
+12,712,Erica Marcela Vila,ARG,M,DNF,14,48:01:00,11:01:12,93.884,
+13,10,Hernan Diego Laurini,ARG,M,DNF,11,46:58:00,07:57:33,73.766,
+14,22,German Gaston Casa?as,ARG,M,DNF,11,49:50:00,08:04:42,73.766,
+15,121,Mario Fabi?n Pereyra ,ARG,M,DNF,11,45:57:00,07:53:50,73.766,
+16,6,Nancy Yamila Ferreira,ARG,F,DNF,10,49:55:00,08:00:20,67.060,
+17,13,Roberto Carlos Franco,ARG,M,DNF,10,49:45:00,08:01:03,67.060,
+18,18,Carlos Ignacio Raya,ARG,M,DNF,10,49:43:00,08:02:41,67.060,
+19,222,Marcelo Hernan Dietz,ARG,M,DNF,10,50:21:00,07:23:03,67.060,
+20,32,Florencia D?vila C?ndido:,UY,F,DNF,9,49:29:00,06:59:23,60.354,
+21,7,Ana Maria Acevedo,ARG,F,DNF,8,41:10:00,05:51:19,53.648,
+22,8,Ver?nica Irel,ARG,F,DNF,8,41:07:00,05:36:41,53.648,
+23,9,Medardo Augusto Bourlot,ARG,M,DNF,8,46:03:00,05:55:40,53.648,
+24,42,Guillermo Andres Heis,ARG,M,DNF,8,44:21:00,05:45:29,53.648,
+25,1963,Esteban Ignacio Martinez,ARG,M,DNF,8,47:28:00,06:20:02,53.648,
+26,52,Analia Mariel Razetto,ARG,F,DNF,7,42:06:00,05:09:19,46.942,
+27,93,Mat?as Manuel Vescina,ARG,M,DNF,7,47:40:00,05:21:46,46.942,
+28,134,Andrea Cosso,ARG,F,DNF,7,47:46:00,05:19:13,46.942,
+29,1988,Wilson Daniel Guerrero Gonz?lez,UY,M,DNF,7,44:05:00,05:23:51,46.942,
+,111,Pamela Garc?a Frossard,ARG,F,DNS,0,,,0.000,
+,156,Marcos Gabriel Alonso,ARG,M,DNS,0,,,0.000,
+,332,Juan Roberto Silva,ARG,M,DNS,0,,,0.000,
+,411,Neri Juan Ramon Godoy,ARG,M,DNS,0,,,0.000,
+,856,Santiago Yapur Lescano,ARG,M,DNS,0,,,0.000,
+,968,Alejandro Mancini,,M,DNS,0,,,0.000,
